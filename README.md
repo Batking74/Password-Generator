@@ -1,6 +1,6 @@
 # Password-Generator
 
-## Description
+### Description
 This is a password generator project built for fun.
 
 - My motivation for this project was being to build another cool complex project that would test my knowledge on Javascript.
