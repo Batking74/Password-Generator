@@ -1,7 +1,7 @@
 # Password-Generator
 
 ### Description
-This is a password generator project built for fun.
+This password generator project, born out of a desire for enjoyment, also serves a practical purpose—I personally use it to generate passwords. Beyond its playful origin, the project has found utility in enhancing security by providing reliable and randomly generated passwords for use in various contexts.
 
 - My motivation for this project was being to build another cool complex project that would test my knowledge on Javascript.
 - I built this project to challenge myself building something with a little bit of complex logic.
